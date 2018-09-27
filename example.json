@@ -26,5 +26,9 @@
       "Key4": {
          "attribute": "4213290",
          "translation": "About Us"
-         }
+       },
+       "Key5": {
+        "attribute": "4213291",
+        "translation": "More Details"
+        }
 }
