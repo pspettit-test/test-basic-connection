@@ -26,5 +26,13 @@
   "Key4" : {
     "attribute" : "4213290",
     "translation" : "À propos de nous"
+  },
+  "Key5" : {
+    "attribute" : "4213291",
+    "translation" : "Afficher les détails"
+  },
+  "Key6" : {
+    "attribute" : "4213292",
+    "translation" : "Encore une fois..."
   }
 }
