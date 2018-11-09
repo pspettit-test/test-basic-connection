@@ -1,0 +1,38 @@
+{
+  "smartling" : {
+    "translate_paths" : {
+      "path" : "*/translation",
+      "key" : "{*}/translation",
+      "instruction" : "*/translation-note"
+    },
+    "placeholder_format_custom" : ["\\^\\^.*?\\^\\^"],
+    "variants_enabled" : "true"
+  },
+  "Key1" : {
+    "attribute" : "4215050",
+    "translation" : "Здравствуйте, ^^USER_NAME^^ , Вот какой-то новый текст.",
+    "translation-note" : "^^username^^ will be the first name, e.g. Mary"
+  },
+  "Key2" : {
+    "attribute" : "400913",
+    "translation" : "Здравствуйте, ^^USER_NAME^^ , Мы тестируем запрос на вытягивание",
+    "translation-note" : "^^username^^ will be the first name, e.g. John"
+  },
+  "Key3" : {
+    "attribute" : "4215049",
+    "translation" : "Copyright 2017 Давайте посмотрим, как переводы переходят в репозиторий GitHub",
+    "translation-note" : ""
+  },
+  "Key4" : {
+    "attribute" : "4213290",
+    "translation" : "О нас И БОЛЬШЕ!"
+  },
+  "Key5" : {
+    "attribute" : "4213291",
+    "translation" : "Подробнее о том, что вы читаете!"
+  },
+  "Key6" : {
+    "attribute" : "4213292",
+    "translation" : "Еще раз..."
+  }
+}
