@@ -1,0 +1,19 @@
+{
+  "smartling" : {
+    "translate_paths" : {
+      "path" : "*/translation",
+      "key" : "{*}/translation",
+      "instruction" : "*/translation-note"
+    },
+    "placeholder_format_custom" : ["\\^\\^.*?\\^\\^"],
+    "variants_enabled" : "true"
+  },
+  "Key7" : {
+    "attribute" : "4215050",
+    "translation" : "Heute wird es viel regnen."
+  },
+  "Key8" : {
+    "attribute" : "400913",
+    "translation" : "Der Himmel ist grau."
+  }
+}
