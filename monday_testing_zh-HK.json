@@ -1,0 +1,20 @@
+{
+  "smartling" : {
+    "translate_paths" : {
+      "path" : "*/translation",
+      "key" : "{*}/translation",
+      "instruction" : "*/translation-note"
+    },
+    "placeholder_format_custom" : ["\\^\\^.*?\\^\\^"],
+    "variants_enabled" : "true"
+  },
+  "Key7" : {
+    "attribute" : "4215050",
+    "translation" : "感恩節假期結束了。"
+  },
+  "Key8" : {
+    "attribute" : "400913",
+    "translation" : "這是一個關於11月星期一的字符串。",
+    "translation-note" : "Another note about this string."
+  }
+}
